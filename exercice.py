@@ -11,7 +11,7 @@ print('La racine carrée de', nombre, 'est', square_root(nombre))
 
 #Nombre au carré
 nombre=input('Veuillez rentrer un nombre:')
-print('La racine carrée de', nombre, 'est', square_root(nombre))
+print('Le carré du nom de', nombre, 'est', square_root(nombre))
     return 0.0
 
 
