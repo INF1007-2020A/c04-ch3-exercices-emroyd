@@ -11,6 +11,7 @@ print('La racine carrée de', nombre, 'est', square_root(nombre))
 
 
 def square(a: float) -> float:
+    
     return 0.0
 
 
