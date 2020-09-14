@@ -10,9 +10,8 @@ def square_root(a: float) -> float:
 print('La racine carrée de', nombre, 'est', square_root(nombre))
 
 
-def square(a: float) -> float:
-    nombre=input('Veuillez rentrer un nombre:')
-    square_root=nombre
+nombre=input('Veuillez rentrer un nombre:')
+square_root=nombre
 print('La racine carrée de', nombre, 'est', square_root(nombre))
     return 0.0
 
