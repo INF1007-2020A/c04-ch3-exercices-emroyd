@@ -12,13 +12,13 @@ FAIL: test_average (__main__.TestExercice)
 Traceback (most recent call last):
   File "test_exercice.py", line 50, in test_average
     'Mauvais calcul de la moyenne'
-AssertionError: Lists differ: [0.0, 0.0, 0.0] != [4.0, 0.0, -2.3333333333333335]
+AssertionError: Lists differ: [(), (), ()] != [4.0, 0.0, -2.3333333333333335]
 
 First differing element 0:
-0.0
+()
 4.0
 
-- [0.0, 0.0, 0.0]
+- [(), (), ()]
 + [4.0, 0.0, -2.3333333333333335] : Mauvais calcul de la moyenne
 
 ======================================================================
