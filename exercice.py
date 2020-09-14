@@ -3,15 +3,12 @@
 
 
 import math
-#Calculer la racine carré
-def square_root(a: float) -> float:
-    nombre=input('Veuillez rentrer un nombre:')
-    square_root=nombre
-print('La racine carrée de', nombre, 'est', square_root(nombre))
 
-#Nombre au carré
-nombre=input('Veuillez rentrer un nombre:')
-print('Le carré de', nombre, 'est', nombre**2)
+def square_root(a: float) -> float:
+    return 0.0
+
+
+def square(a: float) -> float:
     return 0.0
 
 
