@@ -15,8 +15,8 @@ Traceback (most recent call last):
   File "test_exercice.py", line 44, in <listcomp>
     output = [exercice.average(*v) for v in values]
   File "/home/runner/work/c04-ch3-exercices-emroyd/c04-ch3-exercices-emroyd/exercice.py", line 16, in average
-    avg
-NameError: name 'avg' is not defined
+    return (sum(a,b,c)/3)
+TypeError: sum expected at most 2 arguments, got 3
 
 ======================================================================
 FAIL: test_to_celsius (__main__.TestExercice)
