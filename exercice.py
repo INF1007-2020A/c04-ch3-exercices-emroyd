@@ -7,7 +7,7 @@ import math
 def square_root(a: float) -> float:
 nombre=input('Veuillez rentrer un nombre:')
 sqrt(nombre)
-print('La racine carrée de )
+print('La racine carrée de')
     return 0.0
 
 
