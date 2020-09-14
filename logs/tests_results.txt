@@ -15,8 +15,8 @@ Traceback (most recent call last):
   File "test_exercice.py", line 44, in <listcomp>
     output = [exercice.average(*v) for v in values]
   File "/home/runner/work/c04-ch3-exercices-emroyd/c04-ch3-exercices-emroyd/exercice.py", line 16, in average
-    return ((a+b+c)/len(a+b+c))
-TypeError: object of type 'int' has no len()
+    avg
+NameError: name 'avg' is not defined
 
 ======================================================================
 FAIL: test_to_celsius (__main__.TestExercice)
