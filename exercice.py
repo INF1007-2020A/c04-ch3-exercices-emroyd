@@ -3,7 +3,7 @@
 
 
 import math
-#Calculer la 
+#Calculer la racine 
 def square_root(a: float) -> float:
     return 0.0
 
